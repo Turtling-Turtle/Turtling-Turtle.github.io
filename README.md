@@ -5,8 +5,8 @@ Hello, I'm Nathan Ulmen, and I'm pursuing a bachelor's degree in Computer Scienc
 Currently, I'm working on [Ore Forge](#ore-forge).
 
 **Tools I Use:**
-- I usually write my code in one of the JetBrains IDEs.
-- I use Vim motions and Git for version control.
+- I usually write my code in one of the JetBrains IDEs but I also have experience in NeoVim and Visual Studio Code.
+- Vim motions
 
 **Languages:**
 - Java
@@ -23,8 +23,6 @@ Currently, I'm working on [Ore Forge](#ore-forge).
 # Projects
 
 ## Ore Forge
-
----
 
 ### Ore Forge (The Actual Game)
 

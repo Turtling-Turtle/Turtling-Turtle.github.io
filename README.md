@@ -22,6 +22,8 @@ Currently, I'm working on [Ore Forge](#ore-forge).
 
 # Projects
 
+---
+
 ## Ore Forge
 
 ### Ore Forge (The Actual Game)
